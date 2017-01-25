@@ -1,0 +1,22 @@
+{
+  "apps":[
+    {
+      "name" : "profile",
+      "path":"./profile",
+      "url":"/profile",
+      "port":"8220"
+    },
+    {
+      "name" : "songs",
+      "path":"./songs",
+      "url":"/songs",
+      "port":"8221"
+    },
+    {
+      "name" : "movies",
+      "path":"./movies",
+      "url":"/movies",
+      "port":"8222"
+    }
+  ]
+}
